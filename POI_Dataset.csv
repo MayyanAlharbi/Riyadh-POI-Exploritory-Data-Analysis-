@@ -1,0 +1,830 @@
+User ID,Venue ID,Latitude,Longitude,Check-in Time,Day,Previous Venue ID,Venue Name,Day_Num,Day_Sin,Day_Cos,Venue Category_coffee shop,Venue Category_dessert shop,Venue Category_entertainment,Venue Category_hotel,Venue Category_lounge,Venue Category_other,Venue Category_park,Venue Category_plaza,Venue Category_restaurant,Venue Category_shopping,Venue Category_spa,Venue Category_sports facility,Venue Category_unknown
+1,V231,24.767113,46.659294,2021-01-05 22:31:00,Tuesday,,margherita,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V67,24.772194,46.698083,2021-01-05 23:52:00,Tuesday,V231,riverwalk,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+1,V232,24.790579,46.612207,2021-01-06 23:59:00,Wednesday,V67,amc cinemas,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+1,V233,24.760748,46.716174,2021-01-09 20:12:00,Saturday,V232,third caf,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V234,24.741122,46.636161,2021-01-27 11:39:00,Wednesday,V233,caribou coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V233,24.760748,46.716174,2021-01-27 15:16:00,Wednesday,V234,third caf,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V108,24.739278,46.627694,2021-01-27 16:38:00,Wednesday,V233,u walk,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,True,False,False,False,False,False
+1,V235,24.736002,46.631105,2021-03-25 22:51:00,Thursday,V108,kahwet azmi,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V214,24.663909,46.683211,2021-04-18 00:04:00,Sunday,V235,starbucks coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V215,24.765366,46.641621,2021-04-18 00:52:00,Sunday,V214,king abdullah financial district,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,True,False,False,False,False,False,False,False
+1,V216,24.759619,46.6395,2021-04-18 01:09:00,Sunday,V215,salt campsite,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V217,24.730288,46.590478,2021-05-16 23:37:00,Sunday,V216,eclat,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V204,24.690694,46.684528,2021-05-17 00:04:00,Monday,V217,lpm,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V218,24.707578,46.708657,2021-06-15 22:07:00,Tuesday,V204,toqa,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V219,24.72127,46.656313,2021-08-02 20:40:00,Monday,V218,tolat etr,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False
+1,V220,24.804064,46.67406,2021-09-15 23:35:00,Wednesday,V219,ratio,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V221,24.795269,46.655149,2021-10-27 21:11:00,Wednesday,V220,the library club,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+1,V173,24.690222,46.685028,2021-11-01 18:02:00,Monday,V221,entrecote cafe de paris,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V222,24.689708,46.684999,2021-11-01 18:45:00,Monday,V173,mamo michelangelo,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V224,24.765479,46.603982,2022-01-07 22:04:00,Friday,V223,toqa coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V225,24.704074,46.706258,2022-01-31 20:40:00,Monday,V224,billionaire,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V226,24.835229,46.729585,2022-02-01 14:33:00,Tuesday,V225,leap22,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,True,False,False,False,False,False,False,False
+1,V227,24.79102,46.611071,2022-02-03 17:46:00,Thursday,V226,burger boutique,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V228,24.816879,46.665885,2022-02-16 19:54:00,Wednesday,V227,richoux,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V229,24.750282,46.623683,2022-03-17 21:12:00,Thursday,V228,blue garden,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+1,V230,24.738741,46.635276,2022-03-30 10:01:00,Wednesday,V229,crowne plaza,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,True,False,False,False,False,False,False,False,False,False
+1,V08,24.85102,46.673805,2022-05-09 08:15:00,Monday,V230,starbucks coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V08,24.85102,46.673805,2022-05-12 08:24:00,Friday,V08,starbucks coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V08,24.85102,46.673805,2022-05-23 07:11:00,Monday,V08,starbucks coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V07,24.888484,46.61886,2022-06-04 19:46:00,Saturday,V08,veloce,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V06,24.958437,46.702795,2022-07-30 11:59:00,Saturday,V07,king khalid international airport,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,True,False,False,False,False,False,False,False
+1,V05,24.858572,46.646492,2022-07-31 13:47:00,Sunday,V06,starbucks coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V03,24.722389,46.678917,2022-08-01 20:39:00,Monday,V05,shazin,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False
+1,V04,24.71318,46.675823,2022-08-01 21:39:00,Monday,V03,shoe palace,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False
+1,V01,24.693367,46.598449,2024-09-11 20:18:00,Wednesday,V04,belmont coffee house,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,V02,24.733212,46.645169,2024-09-11 20:42:00,Wednesday,V01,kholasa,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V10,24.81268,46.606836,2022-03-09 04:07:00,Wednesday,,unknown,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,False,False,True
+2,V60,24.66449,46.64472,2022-07-11 12:47:00,Monday,V10,al diwann,0.0,0.0,1.0,False,False,False,False,False,True,False,False,False,False,False,False,False
+2,V09,24.778083,46.662694,2022-08-29 20:07:00,Monday,V60,ghandoura,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V11,24.72623,46.652404,2022-09-14 00:00:00,Wednesday,V09,shadow lounge,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,True,False,False,False,False,False,False,False,False
+2,V12,24.757,46.607444,2022-09-15 23:45:00,Thursday,V11,monkey house,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+2,V13,24.75505,46.600606,2022-09-24 04:25:00,Friday,V12,unknown,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,False,True
+2,V09,24.778083,46.662694,2022-09-25 13:03:00,Sunday,V13,ghandoura,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V14,24.793015,46.649209,2022-09-26 21:16:00,Monday,V09,flame,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V09,24.778083,46.662694,2022-09-28 08:31:00,Wednesday,V14,ghandoura,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V15,24.695139,46.684694,2022-10-19 08:30:00,Wednesday,V09,bossco,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V16,24.675198,46.625123,2022-10-29 21:50:00,Wednesday,V15,crazy pizza,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+2,V61,24.693167,46.632194,2022-12-15 20:21:00,Thursday,V16,north audley cantine,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+2,V12,24.757,46.607444,2022-12-15 22:16:00,Thursday,V61,monkey house,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+2,V63,24.731833,46.648,2022-12-24 14:11:00,Saturday,V12,arabica,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V64,24.940833,46.7135,2023-01-08 10:36:00,Sunday,V63,king khalid airport,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,True,False,False,False,False,False,False,False
+2,V65,24.700111,46.704722,2023-02-10 22:42:00,Friday,V64,myazu,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+2,V66,24.690167,46.685111,2023-03-03 02:17:00,Friday,V65,al faisaliah tower,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,True,False,False,False,False,False,False,False
+2,V13,24.75505,46.600606,2023-03-27 11:29:00,Monday,V66,unknown,0.0,0.0,1.0,False,False,False,False,False,False,True,False,False,False,False,False,False
+2,V13,24.75505,46.600606,2023-04-21 11:13:00,Friday,V13,unknown,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,True,False,False,False,False,False,False
+2,V67,24.772194,46.698083,2023-04-24 23:20:00,Monday,V13,riverwalk,0.0,0.0,1.0,False,False,False,False,False,False,False,True,False,False,False,False,False
+2,V09,24.778083,46.662694,2023-05-01 07:30:00,Monday,V67,ghandoura,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V09,24.778083,46.662694,2023-05-02 07:27:00,Tuesday,V09,ghandoura,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V13,24.75505,46.600606,2023-06-02 11:11:00,Friday,V09,unknown,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,True,False,False,False,False,False,False
+2,V65,24.700111,46.704722,2023-06-28 00:46:00,Wednesday,V13,myazu,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+2,V09,24.778083,46.662694,2023-07-03 08:06:00,Monday,V65,ghandoura,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V69,24.703972,46.661056,2023-07-03 19:21:00,Monday,V09,mango juice,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V70,24.751167,46.638806,2023-07-14 07:43:00,Friday,V69,da nonna,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V09,24.778083,46.662694,2023-07-17 07:41:00,Monday,V70,ghandoura,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V69,24.703972,46.661056,2023-08-04 23:00:00,Friday,V09,da nonna,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V71,24.959722,46.702778,2023-09-20 15:33:00,Wednesday,V69,king khalid airport,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+2,V09,24.778083,46.662694,2023-10-20 02:57:00,Friday,V71,ghandoura,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V09,24.778083,46.662694,2023-10-20 03:36:00,Friday,V09,ghandoura,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V109,24.701444,46.676722,2023-11-24 22:41:00,Friday,V09,nozomi riyadh,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+2,V110,24.665917,46.630639,2024-02-10 02:29:00,Saturday,V109,ritzcarlton,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,True,False,False,False,False,False,False,False,False,False
+2,V111,24.710528,46.667528,2024-04-12 21:15:00,Friday,V110,camel step roasters,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V112,24.769417,46.691,2024-06-20 19:29:00,Thursday,V111,camel step roasters,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V113,24.6915,46.67075,2024-06-20 19:54:00,Thursday,V112,rolex,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,True,False,False,False
+2,V112,24.769417,46.691,2024-06-21 20:30:00,Friday,V113,camel step roasters,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,V112,24.769417,46.691,2024-06-25 19:33:00,Tuesday,V112,camel step roasters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V17,24.731667,46.648833,2021-05-05 11:34:00,Wednesday,,the zone,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V18,24.739278,46.627694,2021-05-06 00:34:00,Thursday,V17,u walk,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V17,24.731667,46.648833,2021-05-07 00:01:00,Friday,V18,the zone,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V19,24.741389,46.645278,2021-05-07 00:33:00,Friday,V17,jarlicious,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+3,V20,24.838472,46.731472,2021-05-25 23:48:00,Tuesday ,V19,vox cinemas,,,,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V21,24.697278,46.683972,2021-05-26 15:37:00,Wednesday ,V20,centria,,,,False,False,False,False,False,False,False,False,False,True,False,False,False
+3,V22,24.73975,46.691167,2021-05-26 22:41:00,Wednesday ,V21,felt speciality coffee,,,,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V23,24.803889,46.674083,2021-05-28 22:28:00,Friday,V22,shorofat park,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V24,24.689583,46.68275,2021-05-31 09:04:00,Monday,V23,starbucks coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V25,24.6735,46.623139,2021-06-01 09:58:00,Tuesday ,V24,starbucks coffee,,,,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V41,24.751056,46.612917,2021-06-02 21:18:00,Wednesday ,V25,madeleine,,,,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V42,24.698833,46.706333,2021-06-07 22:34:00,Monday,V41,48avenue roasting coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V43,24.767889,46.716639,2021-06-09 01:09:00,Wednesday ,V42,leto,,,,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V44,24.731417,46.648556,2021-06-09 23:04:00,Thursday,V43,catch 22,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V17,24.731667,46.648833,2021-06-10 23:56:00,Thursday,V44,the zone,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V45,24.755083,46.706333,2021-06-12 20:04:00,Saturday,V17,november coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V46,24.767667,46.715056,2021-06-14 21:55:00,Monday,V45,al nakheel mall,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False
+3,V47,24.764722,46.716056,2021-06-14 22:36:00,Monday,V46,muvi cinemas,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V48,24.696778,46.703667,2021-06-15 15:21:00,Tuesday ,V47,mcdonalds,,,,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V49,24.695722,46.683694,2021-06-17 21:10:00,Thursday,V48,narcissus hotel and residence,3.0,0.43388373911755823,-0.900968867902419,False,False,False,True,False,False,False,False,False,False,False,False,False
+3,V50,24.696028,46.68325,2021-06-17 23:25:00,Thursday,V49,narcissus hotel lobby,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,True,False,False,False,False,False,False,False,False
+3,V51,24.694972,46.700056,2021-06-18 18:36:00,Friday,V50,avindar,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,True,False,False,False,False,False,False,False,False
+3,V52,24.778389,46.734278,2021-06-18 22:24:00,Friday,V51,sidra,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V53,24.774222,46.702972,2021-06-20 12:17:00,Sunday,V52,hamsa w taghmeesa,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V54,24.767389,46.576667,2021-06-21 21:39:00,Monday,V53,starbucks coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V55,24.716472,46.784722,2021-06-22 20:20:00,Tuesday,V54,coffee trees,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V56,24.73575,46.632083,2021-06-24 17:01:00,Thursday,V55,muvi cinemas,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V57,24.763556,46.624222,2021-06-24 22:18:00,Thursday,V56,fabrica de cafe,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V58,24.694833,46.670083,2021-06-25 16:58:00,Friday,V57,starbucks coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V59,24.731528,46.649167,2021-06-25 22:52:00,Friday,V58,patchi cafe,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+3,V20,24.838472,46.731472,2021-07-08 14:12:00,Thursday,V59,vox cinemas,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V116,24.701889,46.69725,2021-08-15 21:31:00,Sunday,V20,i one,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V117,24.763556,46.624222,2021-09-09 23:58:00,Thursday,V116,fabrica de cafe,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V67,24.772194,46.698083,2021-09-12 21:07:00,Sunday,V117,riverwalk,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V118,24.675306,46.671389,2021-09-15 18:29:00,Wednesday,V67,richony cafe,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V119,24.674194,46.623639,2021-09-17 22:04:00,Friday,V118,marriot riyadh,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,True,False,False,False,False,False,False,False,False,False
+3,V120,24.756167,46.630056,2021-10-31 21:28:00,Sunday,V119,riyadh park mall,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,True,False,False,False
+3,V20,24.838472,46.731472,2021-11-05 00:43:00,Thursday,V120,vox cinemas,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V121,24.736222,46.585222,2021-11-06 18:51:00,Friday,V20,diriyah festival,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V122,24.739,46.688167,2021-11-09 22:44:00,Tuesday,V121,coffee addicts,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V123,24.74325,46.564528,2022-01-03 17:39:00,Saturday,V122,alshurfa,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V124,24.675139,46.625028,2022-01-09 11:38:00,Sunday,V123,oud square,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V125,24.769028,46.604083,2022-01-10 01:20:00,Monday,V124,riyadh season,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V126,24.769028,46.604083,2022-01-10 15:17:00,Monday,V125,riyadh season,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V17,24.731667,46.648833,2022-01-15 22:06:00,Saturday,V126,the zone,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V23,24.803889,46.674083,2022-01-18 11:00:00,Tuesday,V17,shorofat park,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V126,24.769028,46.604083,2022-01-18 16:15:00,Tuesday,V23,riyadh season,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V127,24.789306,46.739583,2022-03-19 20:04:00,Saturday,V126,ennaq coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V128,24.706694,46.70675,2022-03-21 16:40:00,Monday,V127,klar,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,False,True,False,False
+3,V126,24.769028,46.604083,2022-03-21 19:50:00,Monday,V128,riyadh season,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V46,24.767667,46.715056,2022-03-21 20:53:00,Monday,V126,al nakheel mall,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False
+3,V158,24.756167,46.630056,2022-03-24 17:06:00,Thursday,V46,riyadh park mall,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,True,False,False,False
+3,V159,24.73975,46.727444,2022-03-24 23:33:00,Thursday,V158,sarabeths,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V108,24.739278,46.627694,2022-03-25 01:59:00,Friday,V159,u walk,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V145,24.694167,46.683333,2022-03-25 15:35:00,Friday,V108,idmi coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V126,24.769028,46.604083,2022-03-26 03:36:00,Saturday,V145,riyadh season,5.0,-0.9749279121818236,-0.2225209339563146,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V160,24.769611,46.762694,2022-03-27 14:00:00,Sunday,V126,mindbreak,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V161,24.774056,46.688583,2022-03-31 14:50:00,Thursday,V160,beit al khawaja,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V23,24.803889,46.674083,2022-08-09 21:34:00,Tuesday,V161,shorofat park,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V162,24.771472,46.668222,2022-08-13 23:47:00,Saturday,V23,muvi cinemas,5.0,-0.9749279121818236,-0.2225209339563146,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V163,24.8155,46.728028,2022-08-21 23:39:00,Sunday,V162,annes red hair,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V350,24.699694,46.691,2022-08-26 23:47:00,Friday,V163,cafe bateel,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V351,24.793361,46.65375,2022-08-27 21:56:00,Saturday,V350,biga burger,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V22,24.73975,46.691167,2022-08-28 18:16:00,Sunday,V351,felt speciality coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V23,24.803889,46.674083,2022-08-31 21:33:00,Wednesday,V22,shorofat park,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V352,24.693333,46.605306,2022-09-02 17:48:00,Friday,V23,nails glow,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,True,False,False
+3,V353,24.664917,46.682833,2022-09-04 21:41:00,Sunday,V352,illy caffe,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V354,24.675167,46.624917,2022-09-05 11:51:00,Monday,V353,urth caffe,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V355,24.766056,46.658,2022-09-07 00:19:00,Wednesday,V354,ulica speciality coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V356,24.702361,46.698028,2022-09-07 13:54:00,Wednesday,V355,mado,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V357,24.778333,46.734389,2022-09-08 22:44:00,Thursday,V356,the cheesecake factory,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V358,24.689722,46.682806,2022-09-11 14:15:00,Sunday,V357,starbucks coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V359,24.756389,46.629389,2022-10-09 12:26:00,Sunday,V358,leto,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V360,24.756639,46.630111,2022-10-09 15:10:00,Sunday,V359,chocomelt,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V361,24.704333,46.655611,2022-10-10 00:05:00,Monday,V360,home offices,0.0,0.0,1.0,False,False,False,False,False,True,False,False,False,False,False,False,False
+3,V362,24.800361,46.611889,2022-10-14 23:04:00,Friday,V361,riyadh hills park,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,True,False,False,False,False,False,False
+3,V363,24.783667,46.6525,2022-10-16 17:11:00,Sunday,V362,mansard hotel,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,True,False,False,False,False,False,False,False,False,False
+3,V364,24.758639,46.606306,2022-10-30 22:19:00,Sunday,V363,la roz lounge,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V365,24.759556,46.603306,2022-10-30 23:26:00,Sunday,V364,kazouza,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V366,24.676694,46.677917,2022-11-02 15:34:00,Wednesday,V365,sobhy kaber,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V367,24.774361,46.680694,2022-11-05 15:34:00,Saturday,V366,caoua,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V373,24.796861,46.778806,2022-11-06 23:34:00,Sunday,V367,lucy cafe,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V374,24.832194,46.659667,2022-11-09 21:53:00,Wednesday,V373,lute tuwaiq,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V375,24.597139,46.692583,2022-11-18 22:20:00,Friday,V374,al sawedi park,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,True,False,False,False,False,False,False
+3,V52,24.778389,46.734278,2022-11-20 23:36:00,Sunday,V375,sidra,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V174,24.792917,46.656472,2022-11-23 18:45:00,Wednesday,V52,sanctuary spa by beauty care,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,True,False,False
+3,V376,24.825306,46.80175,2022-12-09 23:48:00,Friday,V174,dar al auja,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V332,24.753028,46.659917,2023-02-22 23:07:00,Wednesday,V376,,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V56,24.73575,46.632083,2023-02-24 22:38:00,Friday,V332,muvi cinemas,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V377,24.704917,46.800167,2023-03-12 21:39:00,Sunday,V56,mst spa,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,False,True,False,False
+3,V378,24.756083,46.629611,2023-03-15 17:26:00,Wednesday,V377,secret garden,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V206,24.737333,46.574056,2023-03-20 18:00:00,Monday,V378,al bujairi terrace,0.0,0.0,1.0,False,False,False,False,False,False,True,False,False,False,False,False,False
+3,V17,24.731667,46.648833,2023-06-10 01:27:00,Saturday,V206,the zone,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V379,24.7045,46.703722,2023-07-09 00:21:00,Sunday,V17,sicilee restaurant,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V380,24.764694,46.654667,2023-08-11 12:24:00,Friday,V379,doubletree by hilton riyadh financial district,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,True,False,False,False,False,False,False,False,False,False
+3,V108,24.739278,46.627694,2023-11-28 23:59:00,Tuesday,V380,u walk,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V381,24.741472,46.645417,2023-12-03 23:55:00,Sunday,V108,seventies coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V66,24.690167,46.685111,2023-12-08 17:13:00,Friday,V381,al faisaliyah tower,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,True,False,False,False,False,False,False,False
+3,V382,24.751139,46.738778,2023-12-11 23:10:00,Monday,V66,souq alawaleen,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V383,24.812833,46.626917,2023-12-14 00:28:00,Thursday,V382,aseeb najdi restaurant,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V384,24.774222,46.773806,2023-12-19 22:20:00,Tuesday,V383,elixir bunn coffee roasters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V332,24.753028,46.659917,2024-01-03 21:21:00,Wednesday,V384,,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V385,24.66525,46.625083,2024-01-05 17:07:00,Friday,V332,via riyadh,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V385,24.66525,46.625083,2024-01-26 17:26:00,Friday,V385,via riyadh,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V26,24.774611,46.595361,2024-03-06 17:57:00,Wednesday,V385,blvd world,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+3,V17,24.731667,46.648833,2024-03-09 00:48:00,Saturday,V26,the zone,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V386,24.760833,46.639611,2024-04-12 00:11:00,Friday,V17,monopoly,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+3,V108,24.739278,46.627694,2024-04-12 23:25:00,Friday,V386,u walk,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+3,V387,24.792167,46.673333,2024-04-16 23:03:00,Tuesday,V108,olivier,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+3,V21,24.697278,46.683972,2024-05-11 18:17:00,Saturday,V387,centria,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,True,False,False,False
+3,V388,24.692889,46.676056,2024-05-25 22:55:00,Saturday,V21,palet,5.0,-0.9749279121818236,-0.2225209339563146,False,True,False,False,False,False,False,False,False,False,False,False,False
+4,V129,24.768056,46.604028,2023-01-01 00:06:00,Sunday,,riyadh season boulevard,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,True,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-01-02 03:58:00,Monday,V129,blvd world,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-01-05 20:47:00,Thursday,V26,blvd world,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V130,24.757806,46.629472,2023-01-10 03:24:00,Tuesday,V26,vox cinemas,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-01-10 19:42:00,Thursday,V130,blvd world,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V130,24.757806,46.629472,2023-01-13 03:20:00,Friday,V26,vox cinemas,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V131,24.707861,46.674667,2023-01-27 22:45:00,Friday,V130,key cafe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-01-29 20:46:00,Sunday,V131,blvd world,6.0,-0.7818314824680299,0.6234898018587334,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V132,24.733944,46.648611,2023-02-04 02:28:00,Saturday,V26,a12 cafe,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-02-16 13:06:00,Thursday,V132,blvd world,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V133,24.78925,46.671028,2023-02-17 21:11:00,Friday,V26,aziz tea,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V134,24.731667,46.648833,2023-02-24 00:44:00,Friday,V133,the zone,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+4,V135,24.727639,46.643417,2023-03-13 02:23:00,Monday,V134,survival cake,0.0,0.0,1.0,False,True,False,False,False,False,False,False,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-03-14 19:35:00,Thursday,V135,blvd world,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V136,24.772861,46.607694,2023-03-15 14:00:00,Tuesday,V26,veo,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-03-15 14:32:00,Thursday,V136,blvd world,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V137,24.787056,46.615333,2023-03-15 23:35:00,Tuesday,V26,tea colors,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V138,24.70175,46.675972,2023-03-31 01:30:00,Friday,V137,swiss butter,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+4,V139,24.701361,46.6765,2023-03-31 01:46:00,Friday,V138,villa fayrouz,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+4,V140,24.725611,46.6425,2023-03-31 02:24:00,Friday,V139,the esplanade,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+4,V141,24.644861,46.6505,2023-04-02 00:59:00,Sunday,V140,sports green halll,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,False,False,True,False
+4,V142,24.807611,46.810722,2023-04-22 12:08:00,Saturday,V141,on off coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V143,24.858583,46.6465,2023-04-23 23:54:00,Sunday,V142,starbucks coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V144,24.822389,46.605083,2023-05-07 16:19:00,Saturday,V143,drip coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V145,24.694167,46.683333,2023-05-15 20:11:00,Monday,V144,idmi coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V132,24.733944,46.648611,2023-05-26 04:09:00,Friday,V145,a12 cafe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V129,24.768056,46.604028,2023-06-06 00:15:00,Tuesday,V132,riyadh season boulevard,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+4,V146,24.698194,46.683083,2023-06-06 02:21:00,Friday,V129,woods cafe roastery,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V147,24.767667,46.57775,2023-06-09 02:26:00,Friday,V146,salt,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+4,V205,24.800833,46.601,2023-06-15 16:35:00,Thursday,V147,shrimp nation,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+4,V136,24.772861,46.607694,2023-06-15 18:09:00,Thursday,V205,veo,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V206,24.737333,46.574056,2023-06-16 23:46:00,Friday,V136,albujairi terrace,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,True,False,False,False,False,False,False
+4,V207,24.768083,46.576889,2023-07-08 10:27:00,Saturday,V206,blue pay bowling,5.0,-0.9749279121818236,-0.2225209339563146,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V26,24.774611,46.595361,2023-12-13 00:03:00,Wednesday,V207,blvd world,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V28,24.693361,46.632417,2023-12-29 08:12:00,Friday,V27,laysen valley,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,True,False,False,False,False,False,False,False
+4,V29,24.762389,46.632111,2024-01-15 23:20:00,Monday,V28,elct,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V30,24.7675,46.576694,2024-01-19 05:00:00,Friday,V29,saad square,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+4,V31,24.768972,46.588694,2024-01-24 23:32:00,Wednesday,V30,archi,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V32,24.734139,46.648917,2024-01-25 03:22:00,Thursday,V31,burger hunch,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+4,V31,24.768972,46.588694,2024-02-13 10:01:00,Tuesday,V33,archi,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V34,24.747167,46.538889,2024-03-23 01:33:00,Saturday,V31,jax district,5.0,-0.9749279121818236,-0.2225209339563146,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V35,24.807472,46.616972,2024-04-08 03:35:00,Monday,V27,7 ribs,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+4,V36,24.817694,46.597278,2024-05-01 23:57:00,Wednesday,V35,dolci speciali,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+4,V37,24.793278,46.654417,2024-06-16 23:43:00,Sunday,V36,ezemood,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V38,24.680333,46.706833,2024-06-17 21:30:00,Monday,V37,coyard coffee roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+4,V39,24.764417,46.604333,2024-07-01 17:43:00,Monday,V38,muvi cinemas,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+4,V40,24.831472,46.65975,2024-09-06 16:31:00,Friday,V39,sugar hive,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V74,24.675611,46.668083,2024-01-04 18:24:00,Thursday,,elixir bunn coffee roasters,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V75,24.692667,46.595528,2024-01-04 22:39:00,Thursday,V74,reference cafe and roastery,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V76,24.798472,46.676111,2024-01-04 23:49:00,Thursday,V75,,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V77,24.758444,46.734639,2024-01-05 23:53:00,Friday,V76,starbucks coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V78,24.719528,46.764139,2024-01-06 19:12:00,Saturday,V77,hai coffee roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V79,24.688833,46.590167,2024-01-12 22:22:00,Friday,V78,coffee address,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V80,24.725361,46.653278,2024-01-13 17:06:00,Saturday,V79,nr spa,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,True,False,False
+5,V81,24.711306,46.674417,2024-01-13 19:13:00,Saturday,V80,al mamlaka social dining at kingdom center,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,False
+5,V75,24.692667,46.595528,2024-01-13 19:52:00,Saturday,V81,reference cafe and roastery,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V82,24.694167,46.683333,2024-01-15 12:18:00,Monday,V75,idmi coffee roasting co,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V289,24.410944,46.798111,2024-01-20 02:59:00,Saturday,V82,mountain in addirayah,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,True,False,False,False,False,False,False
+5,V290,24.858583,46.6465,2024-01-20 21:02:00,Saturday,V289,starbucks coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V74,24.675611,46.668083,2024-01-22 09:12:00,Monday,V290,elixir bunn coffee roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V291,24.734583,46.752108,2024-01-24 07:41:00,Wednesday,V74,starbucks coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V292,24.791083,46.735111,2024-01-24 21:44:00,Wednesday,V291,mkth,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V293,24.672778,46.674889,2024-01-26 10:27:00,Friday,V292,king abdullah center for oncology and liver disease,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,True,False,False,False,False,False,False,False
+5,V74,24.675611,46.668083,2024-01-27 11:17:00,Saturday,V293,elixir bunn coffee roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V294,24.705722,46.706556,2024-01-27 13:01:00,Saturday,V74,roka at mid town,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+5,V295,24.76925,46.691,2024-02-02 21:57:00,Friday,V294,jadeel,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V296,24.829778,46.668583,2024-02-02 23:15:00,Friday,V295,,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,False,False
+5,V77,24.758444,46.734639,2024-02-03 13:51:00,Saturday,V296,starbucks coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V280,24.74125,46.646333,2024-02-07 23:39:00,Wednesday,V77,be karam,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+5,V297,24.671639,46.676361,2024-02-10 17:57:00,Saturday,V280,king faisal specialist hospital research center kfshrc,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,True,False,False,False,False,False,False,False
+5,V298,24.722306,46.652472,2024-02-11 19:09:00,Sunday,V297,nails a holic,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,False,True,False,False
+5,V299,24.7385,46.627361,2024-02-13 15:24:00,Tuesday,V298,huqqa,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+5,V300,24.961222,46.702361,2024-02-15 23:42:00,Thursday,V299,terminal 2 at king khalid international airport ruh,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,True,False,False,False,False,False,False,False
+5,V301,24.750167,46.623194,2024-03-01 23:44:00,Friday,V300,mefic center,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+5,V302,24.682139,46.625056,2024-03-08 17:51:00,Friday,V301,fenaa alawwal,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,True,False,False,False,False,False,False,False
+5,V298,24.722306,46.652472,2024-03-16 22:32:00,Saturday,V302,nails a holic,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,True,False,False
+5,V303,24.694944,46.596361,2024-03-23 22:20:00,Saturday,V298,irqah walk,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,True,False,False,False,False,False,False
+5,V304,24.690361,46.633778,2024-03-26 00:22:00,Tuesday,V303,entrecote cafe de paris at laysen valley,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+5,V75,24.692667,46.595528,2024-04-07 22:06:00,Sunday,V304,reference cafe and roastery,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V298,24.722306,46.652472,2024-04-21 18:22:00,Monday,V75,nails a holic,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,False,True,False,False
+5,V305,24.804528,46.595611,2024-06-01 20:52:00,Saturday,V298,nora burger,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+5,V306,24.823528,46.728861,2024-06-08 15:15:00,Saturday,V305,riyadh shelter veterinary clinic,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,True,False,False,False,False,False,False,False
+5,V307,24.827806,46.781972,2024-06-08 17:26:00,Saturday,V306,dunkin' donuts,5.0,-0.9749279121818236,-0.2225209339563146,False,True,False,False,False,False,False,False,False,False,False,False,False
+5,V308,24.781361,46.781361,2024-06-12 21:01:00,Wednesday,V307,the escape hotel,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+5,V298,24.722306,46.652472,2024-07-03 18:44:00,Wednesday,V309,nails a holic,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,True,False,False
+5,V310,24.958583,46.703944,2024-07-05 00:51:00,Friday,V298,terminal 3 at king khalid international airport ruh,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,True,False,False,False,False,False,False,False
+5,V311,24.692972,46.628917,2024-07-13 21:15:00,Saturday,V310,le maschou at sarh park,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+5,V312,24.68925,46.591306,2024-07-13 23:19:00,Saturday,V311,,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,False
+5,V83,24.813028,46.607472,2024-07-15 21:15:00,Monday,V312,kicksters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V306,24.823528,46.728861,2024-07-17 18:46:00,Wednesday,V83,riyadh shelter veterinary clinic,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+5,V313,24.742583,46.685806,2024-07-18 21:08:00,Thursday,V306,semi,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V314,24.738472,46.629,2024-07-19 21:19:00,Friday,V313,zara at u walk,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,True,False,False,False
+5,V315,24.7357,46.632083,2024-07-20 00:09:00,Saturday,V314,muvi cinemas,5.0,-0.9749279121818236,-0.2225209339563146,False,False,True,False,False,False,False,False,False,False,False,False,False
+5,V316,24.734583,46.648722,2024-07-20 00:43:00,Saturday,V315,ice cream 36 coffee,5.0,-0.9749279121818236,-0.2225209339563146,False,True,False,False,False,False,False,False,False,False,False,False,False
+5,V85,24.81325,46.608694,2024-07-21 20:46:00,Sunday,V316,queen anne,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+5,V298,24.722306,46.652472,2024-07-27 18:50:00,Saturday,V85,nails a holic,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,True,False,False
+6,V83,24.813028,46.607472,2024-08-27 15:13:00,Tuesday,,kicksters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V84,24.826861,46.661111,2024-08-27 23:45:00,Tuesday,V83,,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V85,24.81325,46.608694,2024-08-31 19:44:00,Saturday,V84,queen anne,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V86,24.750944,46.645194,2024-09-01 18:15:00,Sunday,V85,kin,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V87,24.769417,46.691,2024-09-02 21:11:00,Monday,V86,camel step roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V88,24.804194,46.633194,2024-09-03 19:13:00,Tuesday,V87,4padel,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,True,False
+6,V89,24.771639,46.7205,2024-09-04 19:32:00,Wednesday,V88,pick,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+6,V90,24.725611,46.6425,2024-09-12 21:48:00,Thursday,V89,the esplanade,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,True,False,False,False,False,False
+6,V91,24.77425,46.725528,2024-09-13 19:19:00,Friday,V90,,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V92,24.662556,46.740639,2024-09-21 20:30:00,Saturday,V91,prince faisal bin fahad stadium,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,True,False
+6,V317,24.827778,46.639722,2024-09-24 18:03:00,Tuesday,V92,volume coffee roasters at back yard,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V318,24.525389,46.668722,2024-09-25 22:03:00,Wednesday,V317,,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,True,False,False,False,False,False,False
+6,V319,24.832306,46.659278,2024-09-27 20:59:00,Friday,V318,sikkah,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+6,V320,24.800194,46.679833,2024-09-28 21:59:00,Saturday,V319,al nada garden,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,True,False,False,False,False,False,False
+6,V321,24.740639,46.693111,2024-09-29 13:27:00,Sunday,V320,kholasa,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V322,24.808722,46.589472,2024-10-03 19:25:00,Thursday,V321,out of line,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V323,24.788972,46.577472,2024-10-04 15:58:00,Friday,V322,,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,True,False,False,False,False,False,False
+6,V324,24.733222,46.645167,2024-10-04 19:12:00,Friday,V323,belmont cofee house,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V325,24.958444,46.702806,2024-10-05 00:43:00,Saturday,V324,king khalid international airport ruh,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,True,False,False,False,False,False,False,False
+6,V326,24.806139,46.612194,2024-10-06 22:18:00,Sunday,V325,nashvilles,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+6,V327,24.772806,46.761778,2024-10-07 20:30:00,Monday,V326,,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V319,24.832306,46.659278,2024-10-08 02:07:00,Tuesday,V327,sikkah,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+6,V328,24.8325,46.692472,2024-10-08 06:53:00,Tuesday,V319,,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+6,V82,24.694167,46.683333,2024-10-09 18:19:00,Wednesday,V328,idmi coffee roasting co,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V329,24.772306,46.652417,2024-10-12 18:35:00,Saturday,V82,iota,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V330,24.720917,46.6565,2024-10-12 21:43:00,Saturday,V329,dank sandwich,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+6,V331,24.840111,46.676083,2024-10-14 20:09:00,Monday,V330,,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V317,24.827778,46.639722,2024-10-19 18:13:00,Saturday,V331,volume coffee roasters at back yard,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V332,24.753028,46.659917,2024-10-20 18:53:00,Sunday,V317,,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V84,24.826861,46.661111,2024-10-25 21:43:00,Friday,V332,,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V317,24.827778,46.639722,2024-10-26 18:56:00,Saturday,V84,volume coffee roasters at back yard,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V333,24.780556,46.577778,2024-10-27 12:27:00,Sunday,V317,wasl cafe,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V334,24.763333,46.654028,2024-10-30 21:45:00,Wednesday,V333,calibrated coffee roasters,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V335,24.769,46.588139,2024-11-04 20:24:00,Monday,V334,origin coffee roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V317,24.827778,46.639722,2024-11-06 13:15:00,Wednesday,V335,volume coffee roasters at back yard,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,V323,24.788972,46.577472,2024-11-09 23:53:00,Saturday,V317,,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,True,False,False,False,False,False,False
+6,V336,24.778083,46.661639,2024-11-13 23:53:00,Wednesday,V323,ciao,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+7,V93,24.827139,46.728444,2024-05-07 23:40:00,Tuesday,,unknown,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V94,24.730722,46.666694,2024-05-08 23:38:00,Wednesday,V93,unknown,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V95,24.815444,46.621,2024-05-10 16:15:00,Saturday,V94,unknown,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V85,24.81325,46.608694,2024-05-11 21:25:00,Sunday,V95,unknown,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V96,24.690361,46.633778,2024-05-15 16:24:00,Thursday,V85,unknown,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V97,24.702806,46.705806,2024-05-22 12:28:00,Thursday,V96,unknown,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V98,24.710528,46.667528,2024-05-25 18:09:00,Monday,V97,unknown,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V99,24.747333,46.591389,2024-05-27 22:26:00,Wednesday,V98,unknown,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V100,24.757806,46.629472,2024-05-31 02:06:00,Sunday,V99,unknown,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,False,False,False,True
+7,V101,24.768056,46.752333,2024-06-03 18:51:00,Wednesday,V100,unknown,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,False,False,True
+8,V105,24.762528,46.744028,2021-01-09 22:04:00,Saturday,V106,unknown,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,True
+8,V105,24.762528,46.744028,2021-01-21 21:14:00,Thursday,V105,unknown,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,False,False,True
+8,V107,24.740611,46.633278,2021-01-29 21:54:00,Friday,V105,unknown,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,False,True
+8,V108,24.739278,46.627694,2021-05-18 21:54:00,Tuesday,V107,unknown,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,False,True
+8,V104,24.839861,46.7325,2021-06-08 21:54:00,Tuesday,V108,unknown,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,False,True
+9,V148,24.735111,46.676639,2023-09-28 13:25:00,Thursday,,atmosphere,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V149,24.69225,46.6695,2023-09-28 13:29:00,Thursday,V148,panorama mall,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V150,24.797639,46.644944,2023-11-02 23:05:00,Saturday,V149,value cafe,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2023-11-17 16:18:00,Friday,V150,rex coffe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V120,24.756167,46.630056,2023-11-17 17:00:00,Friday,V151,riyadh park mall,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V148,24.735111,46.676639,2023-11-20 14:19:00,Monday,V120,atmosphere,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V120,24.756167,46.630056,2023-11-20 19:35:00,Monday,V148,riyadh park mall,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V152,24.827139,46.728444,2023-11-22 18:15:00,Wednesday,V120,park avenue,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V151,24.811,46.646028,2023-11-22 19:20:00,Wednesday,V152,rex coffe,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V152,24.708417,46.687361,2023-11-23 14:55:00,Thursday,V151,shawarma house,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+9,V153,24.819083,46.622167,2023-11-23 21:52:00,Thursday,V152,idmi coffee,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V150,24.797639,46.644944,2023-12-02 20:00:00,Sunday,V154,value cafe,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V155,24.738194,46.687667,2023-12-16 23:02:00,Saturday,V150,ik coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V156,24.743139,46.680056,2023-12-28 15:02:00,Thursday,V155,hayat mall,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V148,24.735111,46.676639,2023-12-28 15:23:00,Thursday,V156,atmosphere,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2023-12-28 18:38:00,Thursday,V148,rex coffe,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V157,24.851611,46.602028,2023-12-29 13:11:00,Friday,V151,starbucks coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2023-12-29 20:47:00,Friday,V157,rex coffe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V155,24.738194,46.687667,2024-01-06 10:41:00,Thursday,V151,ik coffee,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2024-01-10 22:28:00,Tuesday,V155,rex coffe,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V148,24.735111,46.676639,2024-01-14 14:41:00,Sunday,V151,atmosphere,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V150,24.797639,46.644944,2024-01-27 11:27:00,Saturday,V179,value cafe,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V180,24.808972,46.627111,2024-04-20 01:08:00,Saturday,V150,three caf,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V181,24.808472,46.627361,2024-04-20 03:06:00,Saturday,V180,enekas,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V23,24.803889,46.674083,2024-04-27 02:36:00,Saturday,V181,shorofat park,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,True,False,False,False,False,False
+9,V182,24.729278,46.623472,2024-05-01 22:17:00,Friday,V154,alawwal park,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,True,False
+9,V236,24.742972,46.658361,2024-05-04 12:57:00,Saturday,V182,riyadh gallery,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V237,24.809056,46.589333,2024-05-04 23:55:00,Saturday,V236,nasj coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2024-05-10 13:20:00,Friday,V237,rex coffe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V236,24.742972,46.658361,2024-05-10 20:41:00,Friday,V151,riyadh gallery,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V237,24.832306,46.659278,2024-05-10 22:14:00,Friday,V236,sikkah,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+9,V238,24.793417,46.656139,2024-05-11 23:18:00,Saturday,V237,shahrukhan restaurant,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+9,V148,24.735111,46.676639,2024-05-19 14:30:00,Sunday,V238,atmosphere,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V155,24.738194,46.687667,2024-05-24 01:04:00,Friday,V148,ik coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2024-05-24 17:36:00,Friday,V154,rex coffe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V140,24.725611,46.6425,2024-05-25 01:05:00,Saturday,V151,the esplanade,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,True,False,False,False,False,False
+9,V239,24.724167,46.64125,2024-05-25 01:10:00,Saturday,V140,vox cinemas,5.0,-0.9749279121818236,-0.2225209339563146,False,False,True,False,False,False,False,False,False,False,False,False,False
+9,V146,24.817472,46.622333,2024-05-29 23:58:00,Wednesday,V239,woods cafe roastery,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V269,24.812611,46.625556,2024-06-12 20:07:00,Wednesday,V146,breehant roastery,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2024-06-13 16:31:00,Thursday,V269,rex coffe,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2024-06-18 03:49:00,Tuesday,V151,rex coffe,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V270,24.810389,46.643972,2024-07-23 21:18:00,Tuesday,V151,y97 specialty coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V151,24.811,46.646028,2024-07-24 22:34:00,Wednesday,V270,rex coffe,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V271,24.711306,46.631278,2024-07-26 10:08:00,Friday,V151,pistrina bakery,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+9,V272,24.791528,46.611444,2024-07-26 17:13:00,Friday,V271,makan mall,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,V151,24.811,46.646028,2024-07-30 19:44:00,Tuesday,V272,rex coffe,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V270,24.810389,46.643972,2024-08-08 20:02:00,Thursday,V151,y97 specialty coffee,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V179,24.79025,46.636556,2024-08-09 18:30:00,Friday,V270,be fine,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+9,V343,24.731667,46.648833,2024-09-29 22:19:00,Sunday,V179,the zone,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,True,False,False,False,False,False
+10,V337,24.7465,46.642639,2024-01-02 11:08:00,Tuesday,,dopeamine,1.0,0.7818314824680298,0.6234898018587336,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V338,24.692389,46.669917,2024-01-02 12:04:00,Tuesday,V337,panorama mall,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,True,False,False,False
+10,V339,24.772306,46.672972,2024-01-03 22:37:00,Wednesday,V338,jarir bookstore,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,True,False,False,False
+10,V340,24.767389,46.576667,2024-01-03 23:19:00,Wednesday,V339,starbucks coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V337,24.7465,46.642639,2024-01-04 12:25:00,Thursday,V340,dopeamine,3.0,0.43388373911755823,-0.900968867902419,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V341,24.754972,46.681667,2024-01-05 20:15:00,Friday,V337,starbucks coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V182,24.729278,46.623472,2024-01-14 21:28:00,Sunday,V341,alawwal park,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,False,False,True,False
+10,V342,24.791833,46.672583,2024-02-02 23:02:00,Friday,V182,shwkat,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V240,24.689987,46.673106,2024-03-12 01:18:00,Tuesday,V342,hataba,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V241,24.689642,46.673555,2024-03-13 23:31:00,Wednesday,V240,paws caf,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+10,V242,24.755065,46.669382,2024-03-19 00:07:00,Tuesday,V241,some coffee bar,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V243,24.711531,46.674532,2024-03-20 19:00:00,Wednesday,V242,four seasons hotel,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,True,False,False,False,False,False,False,False,False,False
+10,V188,24.725667,46.6445,2024-03-20 22:16:00,Wednesday,V243,shots,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V244,24.750156,46.61355,2024-03-24 00:19:00,Sunday,V188,crme,6.0,-0.7818314824680299,0.6234898018587334,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V245,24.776031,46.610763,2024-03-24 20:55:00,Sunday,V244,groovy,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V21,24.697278,46.683972,2024-03-24 23:39:00,Sunday,V245,centria,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,True,False,False,False
+10,V246,24.792274,46.674092,2024-03-25 23:38:00,Monday,V21,starbucks coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V247,24.737813,46.642382,2024-03-31 19:37:00,Sunday,V246,salam,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V248,24.817319,46.664874,2024-04-15 04:07:00,Monday,V247,vox cinemas,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+10,V188,24.725667,46.6445,2024-04-18 21:54:00,Thursday,V248,shots,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V249,24.790129,46.648505,2024-04-19 12:41:00,Friday,V188,dunkin' donuts,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V250,24.959442,46.575356,2024-04-19 21:43:00,Friday,V249,riyadh golf courses,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,True,False
+10,V246,24.792274,46.674092,2024-04-26 12:55:00,Friday,V250,starbucks coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V247,24.737813,46.642382,2024-04-28 21:18:00,Sunday,V246,salam,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V251,24.751626,46.536972,2024-04-29 20:44:00,Monday,V247,al diriyah,0.0,0.0,1.0,False,False,False,False,False,False,True,False,False,False,False,False,False
+10,V09,24.778083,46.662694,2024-04-30 21:52:00,Tuesday,V251,ghandoura,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V252,24.786275,46.658871,2024-05-04 12:12:00,Saturday,V09,croi bake house,5.0,-0.9749279121818236,-0.2225209339563146,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V253,24.708861,46.688856,2024-05-04 19:59:00,Saturday,V252,habibah sweets,5.0,-0.9749279121818236,-0.2225209339563146,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V254,24.747375,46.538731,2024-05-08 20:57:00,Wednesday,V253,diriyah biennale,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+10,V239,24.724167,46.64125,2024-05-27 19:03:00,Monday,V254,vox cinemas,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+10,V255,24.805876,46.660453,2024-05-29 17:17:00,Wednesday,V239,alkharof,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V09,24.778083,46.662694,2024-06-07 19:21:00,Friday,V255,ghandoura,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V165,24.761694,46.657833,2024-07-05 17:58:00,Friday,V09,quokka,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V164,24.794225,46.655538,2024-08-13 02:59:00,Sunday,V165,mcdonalds,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V165,24.761698,46.657828,2024-08-15 15:46:00,Tuesday,V164,quokka,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V166,24.858584,46.646703,2024-08-16 23:24:00,Wednesday,V165,tamimi markets,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+10,V165,24.761698,46.657828,2024-08-20 20:56:00,Sunday,V166,quokka,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V167,24.788556,46.639036,2024-08-24 23:22:00,Thursday,V165,modest,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V168,24.704152,46.702318,2024-08-25 22:31:00,Friday,V167,le relais de ientrecote,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V169,24.704095,46.702826,2024-08-27 22:10:00,Sunday,V168,eataly,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V170,24.79183,46.67259,2024-08-30 22:42:00,Wednesday,V169,shwkat,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V171,24.764469,46.653778,2024-09-01 10:49:00,Friday,V170,movenpick hotel residences riyadh,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,True,False,False,False,False,False,False,False,False,False
+10,V172,24.769417,46.664333,2024-09-02 22:51:00,Saturday,V171,saco world,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,True,False,False,False
+10,V208,24.772293,46.672973,2024-09-03 22:40:00,Tuesday,V172,jarir bookstore,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,True,False,False,False
+10,V209,24.783141,46.636888,2024-09-04 00:06:00,Wednesday,V208,dunkin' donuts,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V210,24.758241,46.674476,2024-09-08 18:56:00,Sunday,V209,grilled burger 777,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+10,V211,24.805834,46.693123,2024-09-13 18:59:00,Friday,V210,4twins truck,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+10,V23,24.803889,46.674083,2024-09-14 13:40:00,Saturday,V211,shorofat park,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,True,False,False,False,False,False
+10,V187,24.711306,46.674417,2024-09-20 15:02:00,Friday,V23,almamlaka social dining,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,False,False
+10,V165,24.761698,46.657828,2024-09-23 19:00:00,Monday,V187,quokka,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V212,24.693368,46.632427,2024-09-23 21:26:00,Monday,V165,laysen valley,0.0,0.0,1.0,False,False,False,False,False,True,False,False,False,False,False,False,False
+10,V165,24.761698,46.657828,2024-09-25 20:21:00,Wednesday,V212,quokka,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,V213,24.809289,46.62353,2024-10-12 00:10:00,Saturday,V165,iris caf,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V23,24.803889,46.674083,2023-03-31 23:48:00,Friday,,shorofat park,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+11,V173,24.690222,46.685028,2023-04-02 00:54:00,Sunday,V23,entrecote cafe de paris,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+11,V174,24.792917,46.656472,2023-04-03 00:28:00,Monday,V173,sanctuary spa by beauty care,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,False,True,False,False
+11,V175,24.738056,46.642667,2023-04-03 00:30:00,Monday,V174,bridlot,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+11,V176,24.752611,46.639167,2023-04-08 00:29:00,Saturday,V175,groovy,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V177,24.807056,46.613722,2023-04-08 01:57:00,Saturday,V176,she burger,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+11,V120,24.756167,46.630056,2023-04-17 00:25:00,Monday,V177,riyadh park mall,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False
+11,V178,24.754444,46.706694,2023-04-26 18:34:00,Wednesday,V120,belong speciality coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V178,24.754444,46.706694,2023-04-28 15:12:00,Friday,V178,belong speciality coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V178,24.754444,46.706694,2023-04-29 19:11:00,Saturday,V178,belong speciality coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V256,24.69325,46.671444,2023-05-03 10:35:00,Wednesday,V178,alwaal albari,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V257,24.799,46.736389,2023-05-11 22:33:00,Thursday,V256,archi,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V258,24.689333,46.634333,2023-05-12 20:29:00,Friday,V257,pattern concept store,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,True,False,False,False
+11,V259,24.755056,46.669389,2023-05-19 19:44:00,Friday,V258,some coffee bar,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V260,24.680722,46.623167,2023-05-19 21:10:00,Friday,V259,wacafe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V198,24.710528,46.667528,2023-05-29 06:48:00,Monday,V260,camel step roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V261,24.711583,46.675278,2023-05-30 18:36:00,Tuesday,V198,cartier,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,True,False,False,False
+11,V237,24.832306,46.659278,2023-05-31 19:52:00,Wednesday,V261,sikkah,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,True,False,False,False,False,False
+11,V259,24.755056,46.669389,2023-06-02 17:18:00,Friday,V237,some coffee bar,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V262,24.767972,46.621472,2023-06-02 18:09:00,Friday,V259,pick,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+11,V46,24.767667,46.715056,2023-06-03 16:58:00,Saturday,V262,al nakheel mall,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,True,False,False,False
+11,V136,24.772861,46.607694,2023-06-05 21:53:00,Monday,V46,veo,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V263,24.72575,46.643389,2023-06-15 23:38:00,Thursday,V136,social cafe roastery,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V264,24.63525,46.658222,2023-06-16 21:24:00,Friday,V263,baa bakehouse,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+11,V265,24.778917,46.734111,2023-06-21 12:54:00,Wednesday,V264,swiss butter,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+11,V266,24.794722,46.733306,2023-08-06 21:19:00,Sunday,V265,semi specialty cafe,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V259,24.755056,46.669389,2023-08-08 21:54:00,Tuesday,V266,some coffee bar,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V267,24.749833,46.70425,2023-08-09 18:49:00,Wednesday,V259,kraz specialty coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V257,24.799,46.736389,2023-08-10 23:40:00,Thursday,V267,archi,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V268,24.688361,46.665194,2023-08-11 22:14:00,Friday,V257,archi,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V344,24.753722,46.639083,2023-08-12 20:39:00,Saturday,V268,just a space,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V345,24.757361,46.7135,2023-08-13 17:13:00,Sunday,V344,cross,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V109,24.701444,46.676722,2023-08-13 19:28:00,Sunday,V345,nozomi riyadh,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+11,V346,24.800194,46.679833,2023-08-18 23:07:00,Friday,V109,alnada,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,True,False,False,False,False,False,False
+11,V347,24.838472,46.731472,2023-08-18 23:16:00,Friday,V346,vox cinemas,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+11,V348,24.742,46.648917,2023-08-22 19:25:00,Tuesday,V347,aelin,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V148,24.735111,46.676639,2023-10-09 18:04:00,Monday,V348,atmosphere,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,V349,24.778611,46.632833,2023-10-10 18:09:00,Tuesday,V148,quite,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V183,24.719111,46.664917,2024-04-26 18:53:00,Friday,,peaks the tent,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V184,24.691972,46.632611,2024-04-27 22:42:00,Saturday,V183,bagatelle,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V185,24.746528,46.724556,2024-04-28 16:35:00,Sunday,V184,coyard coffee roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V183,24.719111,46.664917,2024-04-29 15:44:00,Monday,V185,peaks the tent,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V186,24.702806,46.705806,2024-04-29 17:17:00,Monday,V183,blanca,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V187,24.711306,46.674417,2024-05-02 23:24:00,Thursday,V186,almamlaka social dining,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,False,False,False
+12,V188,24.725667,46.6445,2024-05-04 15:50:00,Saturday,V187,shots,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V189,24.726083,46.643167,2024-05-05 21:10:00,Sunday,V188,go greek,6.0,-0.7818314824680299,0.6234898018587334,False,True,False,False,False,False,False,False,False,False,False,False,False
+12,V190,24.734194,46.611083,2024-05-06 18:59:00,Monday,V189,elixir bunn coffee roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V173,24.690222,46.685028,2024-05-10 22:45:00,Friday,V190,entrecote cafe de paris,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V191,24.699528,46.704611,2024-05-11 21:56:00,Saturday,V173,signor sassi,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V192,24.778083,46.662694,2024-05-12 12:25:00,Sunday,V191,ghandoura,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V193,24.781222,46.594111,2024-05-14 23:08:00,Tuesday,V192,puffery,1.0,0.7818314824680298,0.6234898018587336,False,True,False,False,False,False,False,False,False,False,False,False,False
+12,V194,24.775167,46.63975,2024-05-15 19:00:00,Wednesday,V193,ons coffee roasters,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V195,24.817278,46.622944,2024-05-16 22:31:00,Thursday,V194,bullseye,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,True,False,False,False
+12,V196,24.830194,46.596389,2024-05-16 23:38:00,Thursday,V195,ouia,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V190,24.734194,46.611083,2024-05-17 16:50:00,Friday,V196,elixir bunn coffee roasters,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V188,24.725667,46.6445,2024-05-18 17:38:00,Saturday,V190,shots,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V189,24.726083,46.643167,2024-05-22 00:32:00,Wednesday,V188,go greek,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+12,V197,24.752056,46.624556,2024-05-23 23:39:00,Thursday,V189,agio,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V198,24.710528,46.667528,2024-05-26 10:48:00,Sunday,V197,camel step roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V199,24.778083,46.661639,2024-05-26 21:37:00,Sunday,V198,ciao,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V188,24.725667,46.6445,2024-05-28 20:05:00,Tuesday,V199,shots,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V200,24.760778,46.640306,2024-05-29 14:55:00,Wednesday,V188,joethe juice,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V201,24.693167,46.632194,2024-05-31 00:09:00,Friday,V200,north audley cantine,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V187,24.711306,46.674417,2024-06-01 22:47:00,Saturday,V201,almamlaka social dining,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,False
+12,V202,24.775306,46.60925,2024-06-02 13:19:00,Sunday,V187,origin coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V148,24.735111,46.676639,2024-06-11 12:52:00,Tuesday,V202,atmosphere,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V204,24.690694,46.684528,2024-06-11 21:49:00,Tuesday,V148,lpm,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V187,24.711306,46.674417,2024-06-12 22:32:00,Wednesday,V204,almamlaka social dining,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,False,False,False
+12,V280,24.74125,46.646333,2024-06-12 23:53:00,Wednesday,V187,be karam,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V281,24.750556,46.613139,2024-06-14 20:21:00,Friday,V280,roma,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V282,24.750111,46.613528,2024-06-15 22:20:00,Saturday,V281,agora,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V190,24.734194,46.611083,2024-06-18 22:13:00,Tuesday,V282,elixir bunn coffee roasters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V283,24.82925,46.598417,2024-06-19 20:59:00,Wednesday,V190,shml,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V282,24.750111,46.613528,2024-06-21 22:50:00,Friday,V283,agora,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V191,24.699528,46.704611,2024-06-23 22:57:00,Sunday,V282,signor sassi,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V198,24.710528,46.667528,2024-06-25 09:48:00,Tuesday,V191,camel step roasters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V202,24.775306,46.60925,2024-06-27 23:32:00,Thursday,V198,origin coffee,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V190,24.734194,46.611083,2024-06-28 19:48:00,Friday,V202,elixir bunn coffee roasters,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V187,24.711306,46.674417,2024-06-29 21:45:00,Saturday,V190,almamlaka social dining,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,False
+12,V284,24.733222,46.645167,2024-06-30 20:22:00,Sunday,V187,belmont coffee house,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V285,24.799083,46.5945,2024-07-04 23:19:00,Thursday,V284,haseel,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V286,24.74175,46.619917,2024-07-05 21:40:00,Friday,V285,soul cafe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V197,24.752056,46.624556,2024-07-14 00:08:00,Sunday,V286,agio,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V286,24.74175,46.619917,2024-07-14 21:47:00,Sunday,V197,soul cafe,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V287,24.82675,46.660694,2024-07-31 22:04:00,Wednesday,V286,hjeen roasters,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,V184,24.691972,46.632611,2024-08-01 22:46:00,Thursday,V287,bagatelle,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+12,V288,24.692444,46.629278,2024-08-01 22:53:00,Thursday,V184,cheminee,3.0,0.43388373911755823,-0.900968867902419,False,True,False,False,False,False,False,False,False,False,False,False,False
+12,V130,24.757806,46.629472,2024-08-16 01:06:00,Friday,V288,vox cinemas,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+13,V230,24.738741,46.635276,2024-11-08 09:36:00,Friday,,crowne plaza,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,True,False,False,False,False,False,False,False,False,False
+13,V273,24.737579,46.642392,2024-11-09 21:24:00,Saturday,V230,joethe juice,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+13,V274,24.790243,46.63656,2024-11-11 17:47:00,Monday,V273,befine,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+13,V275,24.768058,46.604013,2024-11-11 18:57:00,Monday,V274,riyadh season boulevard,0.0,0.0,1.0,False,False,False,False,False,False,False,True,False,False,False,False,False
+13,V276,24.766077,46.60272,2024-11-11 19:50:00,Monday,V275,al nakheel boulevard,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+13,V275,24.768058,46.604013,2024-11-11 19:57:00,Monday,V276,riyadh season boulevard,0.0,0.0,1.0,False,False,False,False,False,False,False,True,False,False,False,False,False
+13,V273,24.737579,46.642392,2024-11-12 11:58:00,Tuesday,V275,joethe juice,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+13,V277,24.774621,46.595364,2024-11-12 17:37:00,Tuesday,V273,blvd world,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+13,V278,24.77648,46.601707,2024-11-12 18:43:00,Tuesday,V277,behind coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+13,V279,24.740622,46.633274,2024-11-13 18:50:00,Wednesday,V278,digital city,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+14,V368,24.731417,46.649333,2024-01-04 14:58:00,Tuesday,,em sherif caf,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+14,V178,24.754444,46.706694,2024-01-04 20:12:00,Tuesday,V368,belong speciality coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+14,V185,24.746528,46.724556,2024-01-07 09:44:00,Sunday,V178,coyard coffee roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+14,V369,24.692333,46.670139,2024-01-07 19:15:00,Sunday,V185,amc cinemas,6.0,-0.7818314824680299,0.6234898018587334,False,False,True,False,False,False,False,False,False,False,False,False,False
+14,V178,24.754444,46.706694,2024-01-08 20:48:00,Monday,V369,belong speciality coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+14,V370,24.783889,46.700194,2024-01-09 16:19:00,Tuesday,V178,starbucks coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+14,V371,24.688778,46.724778,2024-01-10 13:14:00,Wednesday,V370,white shoe,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,True,False,False,False
+14,V372,24.687417,46.723667,2024-01-10 13:16:00,Wednesday,V371,dunkin' donuts,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+14,V172,24.769417,46.664333,2024-01-10 14:22:00,Wednesday,V372,saco world,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,True,False,False,False
+14,V345,24.757361,46.7135,2024-01-10 15:27:00,Wednesday,V172,cross,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V389,24.773528,46.628639,2024-05-11 21:47:00,Saturday,,groon coffee roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V140,24.725611,46.6425,2024-07-11 02:38:00,Thursday,V389,the esplanade,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,True,False,False,False,False,False
+15,V189,24.726083,46.643167,2024-07-11 02:38:00,Thursday,V140,go greek,3.0,0.43388373911755823,-0.900968867902419,False,True,False,False,False,False,False,False,False,False,False,False,False
+15,V239,24.724167,46.64125,2024-07-11 03:13:00,Thursday,V189,vox cinemas,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+15,V111,24.710528,46.667528,2024-07-11 12:41:00,Thursday,V239,camel step roasters,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V129,24.768056,46.604028,2024-07-12 03:31:00,Friday,V111,riyadh season boulevard,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,True,False,False,False,False,False
+15,V81,24.711306,46.674417,2024-07-13 03:10:00,Saturday,V129,al mamlaka social dining,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,V183,24.719111,46.664917,2024-07-13 19:26:00,Saturday,V81,peks the tent,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V81,24.711306,46.674417,2024-07-14 01:08:00,Sunday,V183,al mamlaka social dining,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,V390,24.711639,46.674389,2024-07-14 02:22:00,Sunday,V81,kingdom centre,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,True,False,False,False
+15,V391,24.711056,46.675806,2024-07-14 02:53:00,Sunday,V390,vox cinemas,6.0,-0.7818314824680299,0.6234898018587334,False,False,True,False,False,False,False,False,False,False,False,False,False
+15,V111,24.710528,46.667528,2024-07-14 08:56:00,Sunday,V391,camel step roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V393,24.777167,46.616556,2024-07-14 10:01:00,Sunday,V111,jys specialty coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V392,24.739083,46.645556,2024-07-14 10:18:00,Sunday,V393,lunch room,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+15,V148,24.735111,46.676639,2024-07-15 12:25:00,Monday,V392,atmosphere,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V81,24.711306,46.674417,2024-07-16 00:24:00,Tuesday,V148,al mamlaka social dining,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,V111,24.710528,46.667528,2024-07-17 09:07:00,Wednesday,V81,camel step roasters,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V394,24.782167,46.649,2024-07-20 07:34:00,Saturday,V111,dwar alsada,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+15,V54,24.767389,46.576667,2024-07-21 02:51:00,Sunday,V394,starbucks coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V81,24.711306,46.674417,2024-07-22 02:07:00,Monday,V54,al mamlaka social dining,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,V81,24.711306,46.674417,2024-07-23 19:14:00,Tuesday,V81,al mamlaka social dining,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,V81,24.711306,46.674417,2024-09-04 19:32:00,Wednesday,V81,al mamlaka social dining,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,V81,24.711306,46.674417,2024-09-14 22:00:00,Saturday,V81,al mamlaka social dining,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,V395,24.822917,46.653361,2024-09-15 12:57:00,Sunday,V81,dank sandwich,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+15,V284,24.733222,46.645167,2024-09-19 10:05:00,Thursday,V395,belmont coffee house,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V393,24.777167,46.616556,2024-09-27 20:20:00,Friday,V284,jys specialty coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+15,V190,24.734194,46.611083,2024-09-29 22:09:00,Sunday,V393,elixir bunn coffee roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V396,24.741972,46.604028,2024-11-11 16:49:00,Monday,,olla,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V397,24.699944,46.704222,2024-11-11 23:00:00,Monday,V396,public,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V398,24.7025,46.666306,2024-11-12 20:30:00,Tuesday,V397,diet center,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V111,24.710528,46.667528,2024-11-12 21:05:00,Tuesday,V398,camel step roasters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V391,24.711056,46.675806,2024-11-12 22:51:00,Tuesday,V111,vox cinemas,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V139,24.701361,46.6765,2024-11-13 23:03:00,Wednesday,V391,villa fayrouz,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V111,24.710528,46.667528,2024-11-15 16:45:00,Friday,V139,camel step roasters,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V399,24.754583,46.609833,2024-11-16 18:01:00,Saturday,V111,the sift,5.0,-0.9749279121818236,-0.2225209339563146,False,True,False,False,False,False,False,False,False,False,False,False,False
+16,V190,24.734194,46.611083,2024-11-19 20:41:00,Tuesday,V399,elixir bunn coffee roasters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2024-11-23 19:24:00,Saturday,V190,camel step roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2024-11-24 22:55:00,Sunday,V111,camel step roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V391,24.711056,46.675806,2024-11-24 23:44:00,Sunday,V111,vox cinemas,6.0,-0.7818314824680299,0.6234898018587334,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V427,24.741083,46.646222,2024-11-26 19:45:00,Tuesday,V391,masgouf london,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V428,24.667111,46.626417,2024-11-26 22:53:00,Tuesday,V427,madeo,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V429,24.796611,46.651278,2024-11-27 23:36:00,Wednesday,V428,sociable,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V391,24.711056,46.675806,2024-11-29 02:12:00,Friday,V429,vox cinemas,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2024-11-30 21:59:00,Saturday,V391,camel step roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V385,24.66525,46.625083,2024-12-01 22:46:00,Sunday,V111,via riyadh,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,False,True,False,False,False
+16,V430,24.6665,46.627389,2024-12-01 23:53:00,Sunday,V385,raouls,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V429,24.796611,46.651278,2024-12-02 21:29:00,Monday,V430,sociable,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V190,24.734194,46.611083,2024-12-07 19:27:00,Saturday,V429,elixir bunn coffee roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2024-12-09 15:05:00,Monday,V190,camel step roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V436,24.710611,46.667722,2024-12-09 23:41:00,Monday,V111,7ribs,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V197,24.752056,46.624556,2024-12-10 21:34:00,Tuesday,V436,agio,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V190,24.734194,46.611083,2024-12-11 22:01:00,Wednesday,V197,elixir bunn coffee roasters,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V392,24.739083,46.645556,2024-12-12 14:08:00,Thursday,V190,lunch room,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V437,24.689722,46.633694,2024-12-15 17:59:00,Sunday,V392,caf kitsun,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2024-12-16 21:37:00,Monday,V437,camel step roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V391,24.711056,46.675806,2024-12-17 23:40:00,Tuesday,V111,vox cinemas,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2024-12-18 20:53:00,Wednesday,V391,camel step roasters,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V442,24.778222,46.592861,2024-12-18 23:39:00,Wednesday,V111,al falamanki,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V190,24.734194,46.611083,2024-12-21 13:35:00,Saturday,V442,elixir bunn coffee roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V256,24.69325,46.671444,2024-12-21 20:53:00,Saturday,V190,alwaal albari,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V443,24.809278,46.623528,2024-12-22 22:34:00,Sunday,V256,iris caf,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V190,24.734194,46.611083,2024-12-23 20:39:00,Monday,V443,elixir bunn coffee roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V444,24.700944,46.676278,2024-12-25 00:29:00,Wednesday,V190,vox cinemas,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V385,24.66525,46.625083,2024-12-26 22:56:00,Thursday,V444,via riyadh,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,True,False,False,False
+16,V445,24.667028,46.6265,2024-12-26 22:56:00,Thursday,V385,ferdi,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V111,24.710528,46.667528,2024-12-28 23:00:00,Saturday,V445,camel step roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V190,24.734194,46.611083,2024-12-29 21:24:00,Sunday,V111,elixir bunn coffee roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V139,24.701361,46.6765,2024-12-29 22:49:00,Sunday,V190,villa fayrouz,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V446,24.740972,46.645722,2024-12-31 22:29:00,Tuesday,V139,starbucks coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V191,24.699528,46.704611,2024-12-31 23:23:00,Tuesday,V446,signor sassi,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V447,24.694222,46.683611,2025-01-02 00:47:00,Thursday,V191,coal,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V448,24.801444,46.597417,2025-01-03 03:30:00,Friday,V447,najm alshawarma,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V391,24.711056,46.675806,2025-01-05 00:57:00,Sunday,V448,vox cinemas,6.0,-0.7818314824680299,0.6234898018587334,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2025-01-05 20:48:00,Sunday,V391,camel step roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V449,24.724306,46.656472,2025-01-16 00:30:00,Thursday,V111,mama noura,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V111,24.710528,46.667528,2025-01-17 15:15:00,Friday,V449,camel step roasters,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V74,24.675611,46.668083,2025-01-19 12:24:00,Sunday,V111,elixir bunn coffee roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V501,24.693833,46.622083,2025-01-19 22:45:00,Sunday,V74,attache,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+16,V502,24.779111,46.6065,2025-01-21 20:51:00,Tuesday,V501,kingdom arena,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,True,False
+16,V111,24.710528,46.667528,2025-01-22 20:06:00,Wednesday,V502,camel step roasters,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V256,24.69325,46.671444,2025-01-23 21:23:00,Thursday,V111,alwaal albari,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V391,24.711056,46.675806,2025-01-23 23:57:00,Thursday,V256,vox cinemas,3.0,0.43388373911755823,-0.900968867902419,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V111,24.710528,46.667528,2025-01-26 21:27:00,Sunday,V391,camel step roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V503,24.727556,46.662556,2025-01-27 20:13:00,Monday,V111,roa lounge,0.0,0.0,1.0,False,False,False,False,True,False,False,False,False,False,False,False,False
+16,V391,24.711056,46.675806,2025-01-28 00:21:00,Tuesday,V503,vox cinemas,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+16,V429,24.796611,46.651278,2025-01-28 21:18:00,Tuesday,V391,sociable,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,V504,24.808222,46.591694,2025-01-28 22:57:00,Tuesday,V429,salve artisan gelato,1.0,0.7818314824680298,0.6234898018587336,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,V345,24.757361,46.7135,2023-03-29 20:46:00,Wednesday,,cross,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V27,24.693361,46.632417,2024-01-04 23:07:00,Thursday,V345,laysen valley,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,True,False,False,False,False,False,False,False
+17,V399,24.840778,46.6735,2024-01-05 17:13:00,Friday,V27,okawa,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V400,24.688944,46.788639,2024-01-13 19:59:00,Saturday,V399,sohof,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V111,24.710528,46.667528,2024-01-16 20:01:00,Tuesday,V400,camel step roasters,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V178,24.754444,46.706694,2024-01-29 18:21:00,Monday,V111,belong speciality coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V401,24.733222,46.645167,2024-02-02 20:53:00,Friday,V178,belomont coffee house,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V402,24.694167,46.683333,2024-02-04 08:35:00,Sunday,V401,idmi coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V178,24.754444,46.706694,2024-02-11 16:46:00,Sunday,V402,belong speciality coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V403,24.841917,46.732806,2024-02-13 09:49:00,Tuesday,V178,urth caffe,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V404,24.76275,46.749694,2024-02-21 14:02:00,Wednesday,V403,truth coffee roastery,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V431,24.6765,46.567,2024-02-29 20:22:00,Thursday,V404,red padel,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,False,True,False
+17,V111,24.710528,46.667528,2024-03-11 21:18:00,Monday,V431,camel step roasters,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V85,24.81325,46.608694,2024-03-12 21:30:00,Tuesday,V111,queen anne,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V111,24.710528,46.667528,2024-03-15 20:45:00,Friday,V85,camel step roasters,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V432,24.7575,46.687139,2024-03-16 20:30:00,Saturday,V111,sohba,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V433,24.70125,46.70525,2024-03-18 18:33:00,Monday,V432,san carlo cicchetti,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+17,V432,24.7575,46.687139,2024-03-19 20:01:00,Tuesday,V433,sohba,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V434,24.739139,46.648861,2024-03-20 22:09:00,Wednesday,V432,bab,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V435,24.734972,46.610722,2024-03-22 20:46:00,Friday,V434,pass,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V432,24.7575,46.687139,2024-03-29 21:15:00,Friday,V435,sohba,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V34,24.747167,46.538889,2024-03-29 22:27:00,Friday,V432,jax district,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+17,V46,24.767667,46.715056,2024-03-30 12:11:00,Saturday,V34,al nakheel mall,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,True,False,False,False
+17,V404,24.76275,46.749694,2024-03-30 19:17:00,Saturday,V46,truth coffee roastery,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V346,24.800194,46.679833,2024-04-02 02:22:00,Tuesday,V404,alnada,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,True,False,False,False,False,False,False
+17,V438,24.804028,46.674194,2024-04-02 14:43:00,Tuesday,V346,treat salon,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,True,False,False
+17,V439,24.770417,46.648,2024-04-03 01:04:00,Wednesday,V438,kultura,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V440,24.693361,46.598444,2024-04-14 19:15:00,Sunday,V439,kholasa,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V178,24.754444,46.706694,2024-04-19 19:14:00,Friday,V440,belong speciality coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V441,24.74625,46.709944,2024-04-26 16:04:00,Friday,V178,knoll roastery,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V450,24.691139,46.633222,2024-04-26 22:16:00,Friday,V441,nooa,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V441,24.74625,46.709944,2024-04-27 16:16:00,Saturday,V450,knoll roastery,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V451,24.780167,46.739417,2024-04-30 18:09:00,Tuesday,V441,shiro,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+17,V178,24.754444,46.706694,2024-05-01 15:58:00,Wednesday,V451,belong speciality coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V452,24.791167,46.657167,2024-05-02 20:46:00,Thursday,V178,youre chic organic beauty,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,True,False,False
+17,V185,24.746528,46.724556,2024-05-02 22:18:00,Thursday,V452,coyard coffee roasters,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V178,24.754444,46.706694,2024-05-03 17:30:00,Friday,V185,belong speciality coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V85,24.81325,46.608694,2024-05-03 20:09:00,Friday,V178,queen anne,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V453,24.837833,46.689194,2024-05-03 21:24:00,Friday,V85,syrup stage,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+17,V346,24.800194,46.679833,2024-05-09 23:24:00,Thursday,V453,alnada,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,True,False,False,False,False,False,False
+17,V313,24.742583,46.685806,2024-05-11 16:31:00,Saturday,V346,semi,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V432,24.7575,46.687139,2024-05-11 17:42:00,Saturday,V313,sohba,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V441,24.74625,46.709944,2024-05-12 17:42:00,Sunday,V432,knoll roastery,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V434,24.739139,46.648861,2024-05-14 20:39:00,Tuesday,V441,bab,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V337,24.7465,46.642639,2024-05-15 20:40:00,Wednesday,V434,dopeamine,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,V454,24.746889,46.723028,2024-05-16 19:53:00,Thursday,V337,bonzai,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+17,V185,24.746528,46.724556,2024-05-16 20:45:00,Thursday,V454,coyard coffee roasters,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V455,24.707361,46.664444,2024-05-18 10:11:00,Saturday,V185,yamm roasters,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V441,24.74625,46.709944,2024-05-18 16:18:00,Saturday,V455,knoll roastery,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,V456,24.797583,46.686278,2024-05-20 20:50:00,Monday,V441,nasj coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V176,24.752611,46.639167,2023-10-23 21:26:00,Monday,,groovy,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V385,24.66525,46.625083,2023-10-27 23:11:00,Friday,V176,via riyadh,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,True,False,False,False
+18,V405,24.666833,46.625111,2023-10-27 23:22:00,Friday,V385,gymkhana,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V406,24.759694,46.605361,2023-10-29 22:14:00,Sunday,V405,caf lilou,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V264,24.63525,46.658222,2023-10-30 18:36:00,Monday,V406,baa bakehouse,0.0,0.0,1.0,False,True,False,False,False,False,False,False,False,False,False,False,False
+18,V337,24.7465,46.642639,2023-11-01 22:24:00,Wednesday,V264,dopeamine,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+18,V407,24.785361,46.72825,2023-11-03 02:51:00,Friday,V337,hilton riyadh hotel residences,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,True,False,False,False,False,False,False,False,False,False
+18,V408,24.723583,46.664806,2023-11-04 21:55:00,Saturday,V407,royal mall,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,True,False,False,False
+18,V264,24.63525,46.658222,2023-11-09 18:27:00,Thursday,V408,baa bakehouse,3.0,0.43388373911755823,-0.900968867902419,False,True,False,False,False,False,False,False,False,False,False,False,False
+18,V409,24.745333,46.524833,2023-11-18 19:06:00,Saturday,V264,dipsplus,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V410,24.737194,46.574472,2023-11-20 22:47:00,Monday,V409,somewhere,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V175,24.738056,46.642667,2023-11-22 00:16:00,Wednesday,V410,birdlot,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V411,24.691667,46.672806,2023-11-23 01:54:00,Thursday,V175,abu waleed tea,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V81,24.711306,46.674417,2023-11-30 09:35:00,Thursday,V411,al mamlaka social dining,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,False,False,False
+18,V412,24.701472,46.676722,2023-12-01 21:45:00,Friday,V81,nozomi riyadh,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V81,24.711306,46.674417,2023-12-05 22:47:00,Tuesday,V412,al mamlaka social dining,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,False,False,False,False,False
+18,V413,24.739306,46.628056,2024-01-13 16:33:00,Saturday,V81,joes cafe,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V268,24.688361,46.665194,2024-01-15 18:14:00,Monday,V413,archi,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V414,24.806194,46.612222,2024-01-20 19:42:00,Saturday,V268,shiro,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V415,24.643167,46.674416,2024-01-26 22:26:00,Friday,V414,finding sushi,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V416,24.751056,46.613278,2024-02-09 22:31:00,Friday,V415,tao,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V417,24.808417,46.619361,2024-02-23 20:45:00,Friday,V416,sugarhive,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V418,24.693111,46.633111,2024-02-24 10:27:00,Saturday,V417,lazy cat,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V419,24.743417,46.653639,2024-03-16 00:03:00,Saturday,V418,plenty slds,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V420,24.737806,46.642389,2024-03-22 02:06:00,Friday,V419,salam,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V81,24.711306,46.674417,2024-03-29 02:51:00,Friday,V420,al mamlaka social dining,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V65,24.700111,46.704722,2024-04-12 23:00:00,Friday,V81,myaz,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V421,24.706722,46.707528,2024-05-05 20:24:00,Sunday,V65,jon vinnys,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+18,V422,24.69324,46.671439,2024-06-03 16:07:00,Monday,V421,alwaal albari,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V423,24.692514,46.673977,2024-06-25 02:06:00,Tuesday,V422,sentio cafe,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V424,24.735889,46.648111,2024-07-06 00:02:00,Saturday,V423,kernel,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,V425,24.735083,46.648528,2024-08-30 00:21:00,Friday,V424,la bonte,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+18,V426,24.687028,46.627917,2024-09-06 23:51:00,Friday,V425,saddle house,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,V457,24.699611,46.680972,2024-03-25 21:05:00,Monday,,ajam coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,V458,24.764472,46.653778,2024-03-26 23:00:00,Tuesday,V457,movenpick hotel residences riyadh,1.0,0.7818314824680298,0.6234898018587336,False,False,False,True,False,False,False,False,False,False,False,False,False
+19,V459,24.759861,46.603472,2024-03-27 21:00:00,Wednesday,V458,lumiere center,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,True,False,False,False
+19,V460,24.759639,46.603583,2024-03-27 21:28:00,Wednesday,V459,brazil studio salon,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,True,False,False
+19,V139,24.701361,46.6765,2024-03-31 00:00:00,Sunday,V460,villa fayrouz,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V267,24.749833,46.70425,2024-04-03 23:05:00,Wednesday,V139,kraz speciality coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,V461,24.746889,46.723361,2024-04-04 00:47:00,Thursday,V267,yanni coffe lounge,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,V299,24.7385,46.627361,2024-04-15 20:37:00,Monday,V461,huqqa,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V462,24.67625,46.632639,2024-04-17 16:02:00,Wednesday,V299,alsafarat,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,True,False,False,False,False,False,False
+19,V463,24.766806,46.660111,2024-04-18 22:28:00,Thursday,V462,adic2 lounge,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,True,False,False,False,False,False,False,False,False
+19,V464,24.824306,46.65725,2024-05-14 12:44:00,Tuesday,V463,steak house,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V465,24.780833,46.732639,2024-05-14 20:10:00,Tuesday,V464,reel cinemas,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+19,V466,24.700778,46.681972,2024-05-25 20:43:00,Saturday,V465,goat step,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,True,False,False,False,False,False,False,False,False
+19,V467,24.701333,46.677778,2024-05-27 17:20:00,Monday,V466,balcona 99,0.0,0.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V265,24.778917,46.734111,2024-05-28 22:48:00,Tuesday,V467,swiss butter,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V459,24.759861,46.603472,2024-06-12 18:47:00,Wednesday,V265,lumiere center,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,True,False,False,False
+19,V468,24.759611,46.603556,2024-06-12 18:52:00,Wednesday,V459,brazil studio salon,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,False,False,True,False,False
+19,V469,24.76,46.603806,2024-06-12 20:16:00,Wednesday,V468,dar ward,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V470,24.778639,46.734417,2024-06-13 21:16:00,Thursday,V469,p f changs,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V471,24.804361,46.673889,2024-06-27 12:59:00,Thursday,V470,primecut,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V472,24.804,46.673833,2024-06-27 13:29:00,Thursday,V471,lahma wa fahma,3.0,0.43388373911755823,-0.900968867902419,False,True,False,False,False,False,False,False,False,False,False,False,False
+19,V473,24.750111,46.715222,2024-07-03 20:08:00,Wednesday,V472,spinneys,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+19,V470,24.778639,46.734417,2024-07-11 21:48:00,Thursday,V473,p f changs,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V474,24.70125,46.676806,2024-08-06 17:48:00,Tuesday,V470,century corner,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+19,V475,24.757528,46.718889,2024-08-07 17:48:00,Wednesday,V474,earthy center chiropractic,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+19,V476,24.73675,46.683667,2024-08-19 18:18:00,Monday,V475,vox cinemas,0.0,0.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False
+19,V78,24.719528,46.764139,2024-08-29 21:17:00,Thursday,V476,hai coffee roasters,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,V460,24.759639,46.603583,2024-09-20 13:36:00,Friday,V78,brazil studio salon,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,True,False,False
+19,V477,24.769167,46.665111,2024-10-04 10:04:00,Friday,V460,the breakfast club,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V478,24.704306,46.677083,2024-10-05 06:57:00,Saturday,V477,drsulaiman al habib medical center,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,True,False,False,False,False,False,False,False
+19,V479,24.751806,46.623778,2024-10-09 20:41:00,Wednesday,V478,robata,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V480,24.760139,46.613889,2024-10-09 22:20:00,Wednesday,V479,calamantina,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V325,24.958444,46.702806,2024-10-30 23:25:00,Wednesday,V480,king khalid international airport ruh,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+19,V481,24.782778,46.662444,2024-11-12 17:34:00,Tuesday,V325,sao paulo beauty,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,True,False,False,False,False,False,False,False
+19,V482,24.692,46.686361,2024-11-13 19:27:00,Wednesday,V481,narcissus the royal hotel convention,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,True,False,False,False,False,False,False,False,False,False
+19,V483,24.805694,46.693222,2024-11-14 14:20:00,Thursday,V482,starbucks coffee,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,V311,24.692972,46.628917,2024-11-14 21:48:00,Thursday,V483,le maschou,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V484,24.743278,46.564861,2024-11-15 18:37:00,Friday,V311,faceoff cafe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,V444,24.700944,46.676278,2024-11-20 18:15:00,Wednesday,V484,vox cinemas,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+19,V67,24.772194,46.698083,2024-11-21 20:26:00,Thursday,V444,riverwalk,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,True,False,False,False,False,False
+19,V485,24.782528,46.733417,2024-11-22 19:26:00,Friday,V67,reel platinum suites,4.0,-0.433883739117558,-0.9009688679024191,False,False,True,False,False,False,False,False,False,False,False,False,False
+19,V486,24.718333,46.686778,2024-11-22 22:28:00,Friday,V485,tokyo,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V487,24.755889,46.696917,2024-11-25 17:44:00,Monday,V486,life ways medical,0.0,0.0,1.0,False,False,False,False,False,True,False,False,False,False,False,False,False
+19,V488,24.696667,46.682861,2024-12-11 19:02:00,Wednesday,V487,nue by nomad,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V182,24.729278,46.623472,2025-01-03 23:08:00,Friday,V488,alawwal park,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,True,False
+19,V489,24.771306,46.601861,2025-01-04 17:54:00,Saturday,V182,bolevard,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+19,V391,24.711056,46.675806,2025-01-07 18:32:00,Tuesday,V489,vox cinemas,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+19,V182,24.729278,46.623472,2025-01-09 20:03:00,Thursday,V391,alawwal park,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,False,False,False,True,False
+19,V489,24.638028,46.653528,2025-01-14 20:10:00,Tuesday,V182,king fahad cultural center,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,True,False,False,False,False,False,False,False
+19,V465,24.780833,46.732639,2025-01-25 20:55:00,Saturday,V489,reel cinemas,5.0,-0.9749279121818236,-0.2225209339563146,False,False,True,False,False,False,False,False,False,False,False,False,False
+20,V420,24.737806,46.642389,2023-04-24 00:05:00,Monday,,salam,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,V490,24.749583,46.614611,2023-04-24 00:21:00,Monday,V420,pure diamond,0.0,0.0,1.0,False,False,False,False,False,True,False,False,False,False,False,False,False
+20,V491,24.793722,46.629694,2023-05-02 00:18:00,Tuesday,V490,iorto lounge,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V491,24.793722,46.629694,2023-05-06 11:24:00,Saturday,V491,iorto lounge,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V491,24.793722,46.629694,2023-05-17 01:50:00,Wednesday,V491,iorto lounge,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V491,24.793722,46.629694,2023-06-01 01:22:00,Thursday,V491,iorto lounge,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V492,24.80375,46.674139,2023-06-13 20:37:00,Tuesday,V491,doff,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,V23,24.803889,46.674083,2023-06-13 22:05:00,Tuesday,V492,shorofat park,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,True,False,False,False,False,False
+20,V455,24.707361,46.664444,2023-06-25 22:32:00,Sunday,V23,yamm roasters,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,V493,24.728972,46.642,2023-07-02 00:03:00,Sunday,V455,full stop,6.0,-0.7818314824680299,0.6234898018587334,False,False,False,False,False,True,False,False,False,False,False,False,False
+20,V450,24.691139,46.633222,2023-07-20 22:35:00,Thursday,V493,nooa,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,V467,24.701333,46.677778,2023-07-28 00:05:00,Friday,V450,balcona 99,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+20,V494,24.750861,46.6715,2023-09-18 01:04:00,Monday,V467,lulu hookah lounge,0.0,0.0,1.0,False,False,False,False,False,True,False,False,False,False,False,False,False
+20,V26,24.774611,46.595361,2023-11-07 18:06:00,Tuesday,V494,blvd world,1.0,0.7818314824680298,0.6234898018587336,False,False,True,False,False,False,False,False,False,False,False,False,False
+20,V344,24.753722,46.639083,2023-11-15 23:33:00,Wednesday,V26,just a space,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,V139,24.701361,46.6765,2023-12-16 21:39:00,Saturday,V344,villa fayrouz,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+20,V495,24.729139,46.642417,2023-12-23 20:38:00,Saturday,V139,arbol lounge,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,True,False,False,False,False,False,False,False
+20,V491,24.793722,46.629694,2024-01-02 22:27:00,Tuesday,V495,iorto lounge,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V139,24.701361,46.6765,2024-01-18 23:16:00,Thursday,V491,villa fayrouz,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,False,False,False,True,False,False,False,False
+20,V496,24.727333,46.68825,2024-01-31 21:58:00,Wednesday,V139,88 shots caf,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,True,False,False,False,False,False,False,False
+20,V497,24.749472,46.614694,2024-03-08 01:26:00,Friday,V496,alice lounge,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V497,24.749472,46.614694,2024-03-09 00:33:00,Saturday,V497,alice lounge,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V498,24.766167,46.622556,2024-03-12 23:26:00,Tuesday,V497,address caf,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,V495,24.729139,46.642417,2024-03-21 00:51:00,Thursday,V498,arbol lounge,3.0,0.43388373911755823,-0.900968867902419,False,False,False,False,False,True,False,False,False,False,False,False,False
+20,V424,24.735889,46.648111,2024-03-23 01:05:00,Saturday,V495,kernel,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,V499,24.741583,46.647111,2024-03-23 01:45:00,Saturday,V424,zacci,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,True,False,False,False,False,False,False,False,False
+20,V500,24.69,46.673111,2024-03-23 04:16:00,Saturday,V499,hataba,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-19 18:04:00,Monday,,origin coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-20 19:15:00,Tuesday,V202,origin coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-21 22:12:00,Wednesday,V202,origin coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-22 21:57:00,Thursday,V202,origin coffee,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-23 15:11:00,Friday,V202,origin coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-24 22:15:00,Saturday,V505,origin coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-26 22:03:00,Monday,V202,origin coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-28 15:07:00,Wednesday,V202,origin coffee,2.0,0.9749279121818236,-0.22252093395631434,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V81,24.711306,46.674417,2024-08-30 16:59:00,Friday,V202,al mamlaka social dining,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-08-31 18:39:00,Saturday,V81,origin coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-09-02 20:30:00,Monday,V202,origin coffee,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-09-03 21:49:00,Tuesday,V202,origin coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V391,24.711056,46.675806,2024-09-04 23:55:00,Wednesday,V202,vox cinemas,2.0,0.9749279121818236,-0.22252093395631434,False,False,True,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-09-06 16:18:00,Friday,V391,origin coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V506,24.763,46.639028,2024-09-07 23:44:00,Saturday,V202,sushisamba,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V202,24.775306,46.60925,2024-09-12 22:00:00,Thursday,V506,origin coffee,3.0,0.43388373911755823,-0.900968867902419,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V507,24.753083,46.676417,2024-09-13 00:14:00,Friday,V202,cucina di yass,4.0,-0.433883739117558,-0.9009688679024191,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V508,24.687833,46.664667,2024-09-13 17:17:00,Friday,V507,wacafe,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V197,24.752056,46.624556,2024-09-14 22:14:00,Saturday,V508,agio,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V202,24.775306,46.60925,2024-09-15 22:22:00,Sunday,V197,origin coffee,6.0,-0.7818314824680299,0.6234898018587334,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V426,24.687028,46.627917,2024-09-17 23:15:00,Tuesday,V202,saddle house,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V96,24.690361,46.633778,2024-09-18 21:29:00,Wednesday,V426,entrecote cafe de paris,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V509,24.807472,46.658944,2024-09-19 20:27:00,Thursday,V96,floated,3.0,0.43388373911755823,-0.900968867902419,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,V509,24.807472,46.658944,2024-09-20 18:40:00,Friday,V509,floated,4.0,-0.433883739117558,-0.9009688679024191,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,V81,24.711306,46.674417,2024-09-21 18:42:00,Saturday,V505,al mamlaka social dining,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-09-24 17:00:00,Tuesday,V81,origin coffee,1.0,0.7818314824680298,0.6234898018587336,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V510,24.781389,46.594917,2024-09-25 21:44:00,Wednesday,V202,puffery,2.0,0.9749279121818236,-0.22252093395631434,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,V202,24.775306,46.60925,2024-09-27 16:26:00,Friday,V510,origin coffee,4.0,-0.433883739117558,-0.9009688679024191,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V511,24.791472,46.590417,2024-10-15 23:12:00,Tuesday,V202,the health bar by raw,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V512,24.775583,46.606722,2024-10-19 22:07:00,Saturday,V511,six kings slams,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,True,False,False,False,False,False,False,False
+21,V511,24.791472,46.590417,2024-10-23 23:22:00,Wednesday,V512,the health bar by raw,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V202,24.775306,46.60925,2024-11-09 17:29:00,Saturday,V511,origin coffee,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V513,24.765806,46.622889,2024-11-09 21:28:00,Saturday,V202,copper,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V514,24.767972,46.621472,2024-11-12 22:56:00,Tuesday,V513,pick,1.0,0.7818314824680298,0.6234898018587336,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,V197,24.752056,46.624556,2024-11-13 22:37:00,Wednesday,V514,agio,2.0,0.9749279121818236,-0.22252093395631434,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V515,24.675194,46.625111,2024-11-16 22:31:00,Saturday,V197,crazy pizza,5.0,-0.9749279121818236,-0.2225209339563146,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,V516,24.685889,46.628417,2024-11-16 23:33:00,Saturday,V515,jazean,5.0,-0.9749279121818236,-0.2225209339563146,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,V197,24.752056,46.624556,2024-12-03 23:37:00,Tuesday,V516,agio,1.0,0.7818314824680298,0.6234898018587336,False,False,False,False,False,False,False,False,True,False,False,False,False
